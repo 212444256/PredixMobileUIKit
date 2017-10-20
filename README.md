@@ -7,7 +7,6 @@ PredixMobileUIKit
 
 iOS UI Components designed for [Predix](https://predix.io)
 
-
 ## Components
 #### PredixDonutView
 The PredixDonutView is a donut and pie chart, that defaults to the regular Predix data visualization color set. It's Interface Builder enabled, and has various properties for controlling its legend placement, donut characteristics, and an easy helper-method for loading data from a simple name/value dictionary.
